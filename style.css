@@ -1,0 +1,71 @@
+@import url(https://fonts.googleapis.com/css?family=Vidaloka:regular);
+
+
+*
+{
+    background-color: #033E1C;
+   
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.header img
+{
+    width: 100%;
+    margin: 0%;
+}
+.herotxt
+{
+    position: relative;
+}
+.herotxt img
+{
+    display: inline-block;
+    width: 750px;
+    margin-left: -100px;
+    
+    
+}
+
+.herotxt h1
+{
+    color: #A8D287;
+    font-size: 150px;
+    font-family: 'Vidaloka';
+    text-align: right;
+    font-weight: 400;
+    line-height: 108.5%;
+    letter-spacing: -8.25px;
+    display:inline-block;
+    position: absolute;
+    margin-right: 35px;
+   
+}
+
+
+.bodytxt h1
+{
+    color: #A8D287;
+    font-family: Vidaloka;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 92.5%; 
+    letter-spacing: -5.28px;
+    padding-left: 96px;
+}
+
+
+.bodytxt p
+{
+    color: #FFF;
+    font-family: Vidaloka;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 108.5%; 
+    letter-spacing: -1.32px; 
+    padding-left: 626px;   
+}
