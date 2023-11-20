@@ -1,1 +1,0 @@
-This is a website that tells a story about the deadly color green
