@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Vidaloka:regular);
 
 
-*
+.body
 {
     background-color: #126c3a;
    
@@ -106,3 +106,92 @@ letter-spacing: -7.2px;
 
 
 
+.bdytxt3 h1
+{
+    color: #A8D287;
+font-family: Vidaloka;
+font-size: 96px;
+font-style: normal;
+font-weight: 400;
+line-height: 108.5%; /* 104.16px */
+letter-spacing: -7.2px;
+padding-left: 15%;
+}
+
+.bdytxt3 p
+{
+    color: #FFF;
+font-family: Vidaloka;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 108.5%; /* 26.04px */
+letter-spacing: -1.32px;
+padding-left: 45%;
+}
+
+
+.bdytxt3 h2
+{
+    color: #A8D287;
+font-family: Vidaloka;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: 108.5%; /* 69.44px */
+letter-spacing: -4.8px;
+padding-left: 20%;
+padding-top: 100px;
+}
+
+
+.arsenic h1
+{
+    color: #670000;
+font-family: Vidaloka;
+font-size: 290px;
+font-style: normal;
+font-weight: 400;
+line-height: 108.5%; /* 314.65px */
+letter-spacing: -21.75px;
+padding-left: 17%;
+
+}
+
+.arsenic 
+{
+    display: inline-block;
+}
+
+.arsenic img
+{
+position: relative;
+margin-left: 1000px;
+margin-top: -100%;
+}
+
+
+.arsenic p
+{
+    color: #FFF;
+    font-family: Vidaloka;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 108.5%; /* 26.04px */
+    letter-spacing: -1.32px;
+    padding-left: 17%;
+}
+
+
+.arsenic h2
+{
+    color: #F1FFE7;
+    font-family: Vidaloka;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 108.5%; /* 52.08px */
+    letter-spacing: -3.6px;
+    padding-left: 40%;
+}
