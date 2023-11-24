@@ -1,9 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Vidaloka:regular);
 
 
-.body
+*
 {
-    background-color: #126c3a;
+    background-color: #033E1C;
    
 }
 
@@ -21,8 +21,8 @@
 .herotxt img  
 {
     display: inline-block;
-    width: 750px;
-    margin-left: 0px;
+    width: 600px;
+
     
     
 }
@@ -37,7 +37,10 @@
     line-height: 108.5%;
     letter-spacing: -8.25px;
     display:inline-block;
-    margin-left: -55px;
+    position: relative;
+    margin-top: -100px;
+   
+    
    
    
 }
@@ -147,7 +150,7 @@ padding-top: 100px;
 
 .arsenic h1
 {
-    color: #670000;
+    color: #4f0202;
 font-family: Vidaloka;
 font-size: 290px;
 font-style: normal;
@@ -195,3 +198,129 @@ margin-top: -100%;
     letter-spacing: -3.6px;
     padding-left: 40%;
 }
+
+.inventer h1
+{
+    color: #A8D287;
+font-family: Vidaloka;
+font-size: 96px;
+font-style: normal;
+font-weight: 400;
+line-height: 108.5%; /* 104.16px */
+letter-spacing: -7.2px;
+padding-left: 15%;
+}
+
+.inventer h2
+{
+    color: #F1FFE7;
+font-family: Vidaloka;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: 108.5%; /* 52.08px */
+letter-spacing: -3.6px;
+padding-left: 50%;
+}
+
+.inventercon p
+{
+    color: #FFF;
+font-family: Vidaloka;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 108.5%; /* 26.04px */
+letter-spacing: -1.32px;
+display: inline-block;
+margin-top: -20%;
+padding-left: 45%;
+}
+
+.inventercon img
+{
+    width: 450px;
+    display: inline;
+    padding-left: 10%;
+}
+
+.inventer
+{
+    padding-bottom: 70px;
+}
+
+.doctors h1
+{
+    color: #A8D287;
+font-family: Vidaloka;
+font-size: 96px;
+font-style: normal;
+font-weight: 400;
+line-height: 108.5%; /* 104.16px */
+letter-spacing: -7.2px;
+padding-left: 10%;
+}
+
+.doctors p
+{
+    color: #FFF;
+font-family: Vidaloka;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 108.5%; /* 26.04px */
+letter-spacing: -1.32px;
+padding-left: 25%;
+}
+
+.doctors h2
+{
+    color: #F1FFE7;
+    font-family: Vidaloka;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 108.5%; /* 52.08px */
+    letter-spacing: -3.6px;
+    padding-left: 45%;
+}
+
+.doctors h3
+{
+    color: #670000;
+text-align: center;
+font-family: Vidaloka;
+font-size: 128px;
+font-style: normal;
+font-weight: 400;
+line-height: 85%; /* 108.8px */
+letter-spacing: -9.6px;
+}
+
+.doctors
+{
+    padding-bottom: 50px;
+}
+
+.endtxt h1
+{
+    color: #A8D287;
+text-align: center;
+font-family: Vidaloka;
+font-size: 96px;
+font-style: normal;
+font-weight: 400;
+line-height: 85%; /* 81.6px */
+letter-spacing: -7.2px;
+}
+
+.endtxt
+{
+    padding-bottom: 70px;
+}
+
+.endtxt img
+{
+    width: 100%;
+}
+
